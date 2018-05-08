@@ -1,2 +1,3 @@
 # hello-world
-Hello, World
+
+A basic app that allows for users to be greeted. 
